@@ -45,9 +45,9 @@ It models depots, vehicles, and customers, and shows how local and collaborative
 ---
 
 ## 📷 Example Output
-- Initial planned routes
-- Routes after **LOCAL replanning**
-- Routes after **COLLABORATIVE replanning**
+![Route Visualization](graph.png)
+![Route Visualization](graph2.png)
+![Route Visualization](graph3.png)
 
 ---
 
